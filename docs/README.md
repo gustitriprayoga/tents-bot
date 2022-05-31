@@ -20,12 +20,6 @@ _Some highlight features_:
 - **AFK**: Away From Keyboard in group
 - **Broadcast**: Broadcast message to all Groups & everyone
 
-**Screenshots**
-
-| [![Sample-1](images/sample1.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample1.jpg) | [![Sample-2](images/sample2.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample2.jpg) | [![Sample-3](images/sample3.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample3.jpg) | [![Sample-4](images/sample4.jpg)](https://raw.githubusercontent.com/DineshValor/valor/bot/docs/images/sample4.jpg) |
-|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Sample-1                                                                                                           | Sample-2                                                                                                           | Sample-3                                                                                                           | Sample-4                                                                                                           |
-
 ## Downloads
 
 [Github](https://github.com/DineshValor/valor/) is the only source where you can get official Valor Bot information and downloads.
